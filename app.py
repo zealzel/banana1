@@ -2,7 +2,8 @@ import os
 
 
 def banana1():
-    print("i am banana1")
+    print("I am banana1")
+
 
 def main():
     print("hello main")
