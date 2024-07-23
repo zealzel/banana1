@@ -1,9 +1,6 @@
 import os
 
 
-def banana1():
-    print("i am banana1")
-
 def main():
     print("hello main")
     print("11")
